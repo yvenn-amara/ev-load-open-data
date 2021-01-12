@@ -1,0 +1,13 @@
+Column Name,Description
+Station Name,Name of each charging station
+Station Address,Address where the charging station is located
+City,City in which the charging station is located
+State,State in which the charging station is located
+Postal Code,Zip code for where the charging station is located
+Transaction Date,Date EV charging station port was used
+Transaction Start Time,The time of day at which the vehicle was plugged in for charging
+Charging Time (minutes),The number of minutes any vehicle was plugged in and actively charging on the particular listed date. This does not capture time a vehicle was plugged in and no longer charging. 
+Energy (kWh),The amount of energy that has been dispensed by the charging stations on the particular listed date. Energy is measured in kilowatt hours (kWh)
+GHG Savings (kg),Estimated emissions avoided based on the energy dispensed and gasoline saved by the charging stations on the listed date. These figures are collected in kilograms (kg) of carbon dioxide equivalent (CO2e)
+Gasoline Savings (gallons),Estimated gallons of gasoline saved based on charging time on the paticular listed date
+Port Type,The power level of the charging port
