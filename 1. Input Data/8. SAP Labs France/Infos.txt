@@ -1,0 +1,12 @@
+La société SAP Labs France (https://www.sap.com/france/about.sap-labs-france.html) aide ses clients au déploiement de leur infrastructure de recharge de véhicules électriques, notamment via sa plateforme de supervision pour bornes de recharge. 
+D'ici 2022, tous les employés de SAP Labs France seront dotés d'un véhicule de fonction électrique (cible zéro carbone).
+
+Ce jeu de données correspond à l’ensemble des transactions de charge des véhicules électriques des collaborateurs de SAP Labs France effectuées soit sur leur lieu de travail, soit à leur domicile, depuis juin 2017. Une transaction est l’ensemble de l’opération de charge du démarrage à l’arrêt (de l'insertion au retrait du badge, bouton ou câble), incluant la période d’inactivité (lorsque la charge est terminée mais que le véhicule est encore branché).
+
+Descriptif des bornes utilisées :
+
+Sur le lieu de travail (site SAP) : 7 bornes (2 connecteurs de 22kW) + 5 bornes (2 connecteurs de 7kW) + 2 bornes 50kW + 1 borne 150kW
+À domicile, donc en différents points géographiques : 16 bornes (7 ou 22kW)
+Ce jeu de données sera mis à jour trimestriellement.
+
+Pour toute question sur ce jeu de données, vous pouvez contacter le support de SAP Labs France : DL_5C00FDBE40F91601099DE7CC@global.corp.sap
