@@ -44,9 +44,9 @@ Keywords: electric vehicles, charging point, load modelling, smart charging, ope
 
 This repository contains the most relevant data and codes produced for the experiments detailed in our paper. 
 
-[1. Input Data][./1.%20Input%20Data] contains the raw data we found in our research. Feel free to contact if you know of any additional open data sources which may not be present here.
-[2. Scripts][./2.%20Scripts] gathers the R scripts used to preprocess and analyse the data.
-[3. Outputs][./3.%20Outputs] assembles the csv outputs generated after the data preprocessing
+[1. Input Data](./1.%20Input%20Data) contains the raw data we found in our research. Feel free to contact if you know of any additional open data sources which may not be present here.
+[2. Scripts](./2.%20Scripts) gathers the R scripts used to preprocess and analyse the data.
+[3. Outputs](./3.%20Outputs) assembles the csv outputs generated after the data preprocessing
 
 
 ### Data
@@ -81,6 +81,7 @@ install.packages("fitdistrplus")
 
 ## Key visual
 
+- National EV market share per country coloured by data availability
 ![National EV market share per country coloured by data availability](market.png)
 
 ## Author
